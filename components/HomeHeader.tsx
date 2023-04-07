@@ -5,7 +5,7 @@ const HomeHeader = () => {
         Welcome to{' '}
         <a
           className='text-purple-400 hover:text-blue-600 hover:underline'
-          href='https://github.com/hemanth-kotagiri/jntuh-results-stats'
+          href='https://jntuh.co.in/jntuh-results/'
           target='_blank'
         >
           JNTUH Results Statistics
