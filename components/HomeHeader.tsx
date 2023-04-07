@@ -4,7 +4,7 @@ const HomeHeader = () => {
       <h1 className='p-4 text-black dark:text-white text-3xl font-bold sm:text-6xl'>
         Welcome to{' '}
         <a
-          className='text-blue-400 hover:text-blue-600 hover:underline'
+          className='text-purple-400 hover:text-blue-600 hover:underline'
           href='https://github.com/hemanth-kotagiri/jntuh-results-stats'
           target='_blank'
         >
